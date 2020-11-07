@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Vardot/varbase.svg?branch=8.x-8.7)](https://travis-ci.com/github/Vardot/varbase/builds/189490831) Varbase 8.8.7
 
-# Varbase Project
+# Varbase + CiviCRM
 
 Project template for [Varbase distribution](http://www.drupal.org/project/varbase).
 
@@ -10,18 +10,8 @@ Project template for [Varbase distribution](http://www.drupal.org/project/varbas
 
 To install the most recent stable release of Varbase 8.8.x run this command:
 ```
-composer create-project Vardot/varbase-project:^8.8.7 PROJECT_DIR_NAME --no-dev --no-interaction
+composer create-project ahillio/varbase-project PROJECT_DIR_NAME --no-dev --no-interaction
 ```
-
-To install the dev version of Varbase 8.8.x run this command:
-```
-composer create-project vardot/varbase-project:8.8.x-dev PROJECT_DIR_NAME --stability dev --no-interaction
-```
-
-To run using lando use the following steps:
-
-1. Install lando locally, steps for installing can be found [here](https://docs.lando.dev/basics/installation.html).
-2. Run lando start.
 
 ## [Create a new Vartheme sub theme for a project](https://github.com/Vardot/varbase/tree/8.x-8.x/scripts/README.md)
 
