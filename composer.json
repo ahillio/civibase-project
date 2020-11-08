@@ -33,7 +33,7 @@
     "drupal/drupal-library-installer-plugin": "^0.3",
     "webflo/drupal-finder": "~1.0",
     "webmozart/path-util": "~2.0",
-    "vardot/varbase": "8.8.x-dev",
+    "ahillio/civibase": "8.8.x-dev",
     "vardot/varbase-updater": "~1.0",
     "civicrm/civicrm-asset-plugin": "^1.0",
     "civicrm/civicrm-drupal-8": "^5.24.0",
